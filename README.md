@@ -8,3 +8,4 @@ A novice web designer and front-end developer 🙂 who wants to exchange 🔁 in
 - React
 - Node.js
 - Express.js
+- MongoDB
